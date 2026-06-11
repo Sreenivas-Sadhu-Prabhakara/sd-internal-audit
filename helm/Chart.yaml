@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-internal-audit
+description: "BIAN Service Domain: Internal Audit (Assess pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - assess
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Compliance"
+  bian/asset-type: "Audit Engagement"
+  bian/control-record: "Audit Engagement Assessment"
